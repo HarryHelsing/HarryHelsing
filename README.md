@@ -1,8 +1,15 @@
-~👋 Hi, I’m @HarryHelsing~
+👋 Hi, I’m @HarryHelsing
 *👀 I’m interested in...*
-- Rust! - The Yew Framework. - Linux and Bash.
+- Rust!
+- The Yew Framework.
+- Linux and Bash.
 *🌱 I’m currently learning...*
-- HTML. - CSS. - Yew. - Rust. - Markup -Vim
+- HTML.
+- CSS.
+- Yew.
+- Rust.
+- Markup
+-Vim
 *💞️ I’m looking to collaborate on...*
 - Anything that I could achieve at my skill level!
 *📫 How to reach me...*
