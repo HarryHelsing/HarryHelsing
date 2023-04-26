@@ -4,8 +4,8 @@
 - Rust!
 - The Yew Framework.
 - Linux and Bash.
-*🌱 I’m currently learning...*
 
+*🌱 I’m currently learning...*
 
 - HTML.
 - CSS.
@@ -13,6 +13,7 @@
 - Rust.
 - Markup
 -Vim
+
 *💞️ I’m looking to collaborate on...*
 
 - Anything that I could achieve at my skill level!
