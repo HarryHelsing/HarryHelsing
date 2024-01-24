@@ -2,21 +2,20 @@
 
 *👀 I’m interested in...*
 - Rust!
-- The Yew Framework.
 - Linux and Bash.
 
 *🌱 I’m currently learning...*
 
+- Rust.
+- Vim.
 - HTML.
 - CSS.
-- Yew.
-- Rust.
-- Markup
--Vim
+- Markup.
 
 *💞️ I’m looking to collaborate on...*
 
 - Anything that I could achieve at my skill level!
+- Especially interested in furthering Rust skills
 
 *📫 How to reach me...*
 
