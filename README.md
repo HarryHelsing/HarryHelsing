@@ -10,7 +10,7 @@
 - Vim.
 - HTML.
 - CSS.
-- Markup.
+- Markdown.
 
 *💞️ I’m looking to collaborate on...*
 
