@@ -7,7 +7,7 @@
 - C Programming Language Book (on the Wishlist)
 
 ## Resources for the Future
-[When my I've Improved to a level I am ready for the note advanced material]
+[When my I've Improved to a level I am ready for the more advanced material]
 - Rustonomicon
 - Crust of Rust
 - Rust book for WASM
