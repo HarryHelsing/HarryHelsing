@@ -2,20 +2,18 @@
 
 *👀 I’m interested in...*
 - Rust!
+- Bevy Game engine
 - Linux and Bash.
 
 *🌱 I’m currently learning...*
 
 - Rust.
 - Vim.
-- HTML.
-- CSS.
-- Markdown.
+- Bevy
 
 *💞️ I’m looking to collaborate on...*
 
-- Anything that I could achieve at my skill level!
-- Especially interested in furthering Rust skills
+- Rust or Bevy based projects
 
 *📫 How to reach me...*
 
