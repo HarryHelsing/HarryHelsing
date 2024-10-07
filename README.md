@@ -10,6 +10,7 @@
 - Rust.
 - Vim.
 - Bevy
+- A touch of C
 
 *💞️ I’m looking to collaborate on...*
 
