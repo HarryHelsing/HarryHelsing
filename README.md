@@ -10,7 +10,6 @@
 - Rust.
 - Vim.
 - Bevy
-- SQL databases (PostgreSQL)
 - A touch of C
 
 *💞️ I’m looking to collaborate on...*
