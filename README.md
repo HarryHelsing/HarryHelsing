@@ -1,20 +1,17 @@
-👋 Hi, I’m @HarryHelsing
+I’m @HarryHelsing
 
-*👀 I’m interested in...*
-- Rust!
-- Bevy Game engine
-- Linux and Bash.
+Currently I'm working on my own game in Bevy called Gahara. (repo name Emerge)
+It's built with Rust and the Bevy game engine and is in the early prototyping phases.
 
-*🌱 I’m currently learning...*
+Gahara is a well paced 2D strategy/action game about exploring the wilds.
+It's based on a grid system and blurs the lines between turn-based and real-time.
 
-- Rust.
-- Vim.
-- Bevy
-- A touch of C
+I've been learning Rust and programming for nearly two years as a side project.
+I have never programmed before this, other than a little Bash usage in Linux which
+I switched to a few years ago.
 
-*💞️ I’m looking to collaborate on...*
-
-- Rust or Bevy based projects
+If you want to comment upon my code or ask questions about Bevy feel free.
+I'm both happy to share the little I know and receive advice on improving my code.
 
 *📫 How to reach me...*
 
