@@ -22,7 +22,7 @@ Previous experiments of mine include:
 - Making a game in Rust with Bevy
 
 
-If you want to see what I'm working on you can poke around my Notes repo!
+If you want to see what I'm working on you can poke around my Notes repository!
 
 How to reach me:
 harryhelsing@proton.me or @HarryHesling on Telegram
