@@ -16,12 +16,13 @@ Current experiments include:
 - Making a language learning note taking CLI tool to help with my Italian
 - Making my own LAN server with AlmaLinux
 
-If you want to see what I'm working on you can poke around my Notes repo!
-
 Previous experiments of mine include:
 - Making simple Rust CLI tools
 - Creating some weird and wonderful bash scripts
 - Making a game in Rust with Bevy
+
+
+If you want to see what I'm working on you can poke around my Notes repo!
 
 How to reach me:
 harryhelsing@proton.me or @HarryHesling on Telegram
