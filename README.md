@@ -21,7 +21,7 @@ Previous experiments of mine include:
 - Creating some weird and wonderful bash scripts
 - Making a game in Rust with Bevy
 
-How to reach me
+How to reach me:
 harryhelsing@proton.me or @HarryHesling on Telegram
 
 <!---
