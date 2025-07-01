@@ -1,18 +1,28 @@
-I’m @HarryHelsing
+Nice to meet you, I’m @HarryHelsing
 
-I've been learning Rust and programming for nearly two years as a side project.
-I have never programmed before this, other than a little Bash usage in Linux which
-I switched to a few years ago.
+After many years of experimenting with Linux I decided to learn my first
+programming language, Rust, in 2023. The way it elegantly combined safety,
+speed, reliability, and usability still fascinates me to this day, though
+the learning curve is intense!
+In July 2025 I decided to go from hobbiest to full time in developing my
+skills. With the aim to learn Linux Systems Administration.
 
-I have tried my hands at a range of things, creating a game in Bevy (Rust),
-creating a language learning CLI tool, and a few other strange projects.
+I'm hoping to combine and refine my growing skills in Linux and programming
+to become a proficient System Admin. Though I am refining with this goal in
+mind I am open to exploring many side goals and projects to keep my
+perspective and skills fresh and flexible.
 
-If you want to comment upon my code feel free.
-I'm both happy to share the little I know and receive advice on improving my code.
+Current experiments include:
+- Making a language learning note taking CLI tool to help with my Italian
+- Making my own LAN server with AlmaLinux
 
-*📫 How to reach me...*
+Previous experiments of mine include:
+- Making simple Rust CLI tools
+- Creating some weird and wonderful bash scripts
+- Making a game in Rust with Bevy
 
-- harryhelsing@proton.me or @HarryHesling on Telegram
+How to reach me
+harryhelsing@proton.me or @HarryHesling on Telegram
 
 <!---
 HarryHelsing/HarryHelsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
